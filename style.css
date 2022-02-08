@@ -1,0 +1,15 @@
+div {
+  background-color: aquamarine;
+  flex: 1;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
+
+#div-1 {
+  order: 1;
+}
